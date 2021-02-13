@@ -1,0 +1,108 @@
+@charset "utf-8";
+.logo{
+	margin-left:200px;
+	font-size:25px;
+	font-weight:bold;}
+.menu{
+	margin-left:235px;
+	float:left;
+}
+.mavi{
+	font-family:raleway;
+	color:#000;
+	text-shadow:0px 1px 1px black;
+	letter-spacing:200%;
+	text-align:center;}
+.col-8{
+	margin-top:10px;
+	font-family:quicksand;
+}
+.mavi1{
+	font-family:raleway;
+	color:#000;
+	text-shadow:0px 1px 1px black;
+	letter-spacing:200%;
+	text-align:right;
+	padding-bottom:15px;
+	margin-right:105px;
+	}
+#basvuru{
+	width:auto;
+	box-sizing:border-box;
+	text-align:center;
+	padding:10px 400px;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+.mavi2{
+	font-family:raleway;
+	color:#000;
+	text-shadow:0px 1px 1px black;
+	letter-spacing:200%;
+	text-align:left;
+	padding-bottom:15px;
+	margin-right:50px;
+	}
+#blog{
+	width:100%;
+	height:auto;
+	padding:27px;
+	float:left;
+	background-color:#2C2827;
+	}
+#blog h1{
+	text-align:center;
+	color:#fff;
+	font-size:30px;
+}
+.galeriresim{
+	width:22.5%;
+	height:250px;
+	border-radius:5px;
+	box-shadow:0 2px 8px 2px rgba(20,23,28,.15);
+	opacity:.8;
+	transition:all .8s;
+	margin:10px;
+	}
+.galeriresim:hover{
+	opacity:1;
+	border:5px solid white;
+	}
+.link{
+	text-decoration:none;
+	}	
+#iletisim h1{
+	float:right;
+	text-align:center;
+	color:#000;
+	font-size:30px;
+	margin-right:30px;
+	margin-top:25px;
+}
+iframe{
+	width:98%;
+	height:350px;
+	margin:10px;
+	border:0;
+	border-radius:5px;
+	box-shadow:0 2px 8px 2px rgba(20,23,28,.15);
+	}
+.ortala{
+	width:auto;
+	height:300px;
+	box-sizing:border-box;
+	text-align:center;
+	padding:10px 450px;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+.ortala h2{
+	color:#003;
+}
+.sil{
+	clear:both;
+}
+
+/* CSS Document */
